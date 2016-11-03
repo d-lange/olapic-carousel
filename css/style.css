@@ -1,0 +1,43 @@
+.page-title {
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom:40px;
+}
+
+ul {
+	list-style: none outside none;
+	padding-left:0;
+	margin-bottom:300px;
+}
+
+.item {
+	border: 2px solid #4c4c4c;
+	display: block;
+	cursor: pointer;
+	padding: 5px;
+	position:relative;
+	z-index:1;
+}
+
+img {
+	display: block;
+	height: 200px;
+	width: 220px;
+	max-width: 100%;
+}
+.caption-container {
+	border: 1px solid #000;
+	top: -100px;
+	position:relative;
+	z-index: 99;
+	background-color: #7e7e7e;
+	opacity:0.8;
+	display:none;
+
+}
+.caption {
+	font-size: 12px;
+	word-wrap: break-word;
+	color:#fff;
+	opacity:1;
+}
+
