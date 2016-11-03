@@ -1,4 +1,4 @@
-### Olapic Front-end Test
+### Olapic Front-end
 
 For this project I had to connect to Olapic's API provided the API Key I was given.
 The task was to display the latest photos from the customers Olapic Account. I reviewed the documentation and knew I could get to the customers most recent media by url query.
